@@ -1,0 +1,15 @@
+Healthcare patient summaries should include chief complaint, relevant history, examination highlights, assessment, and plan.
+
+Clinical notes should prioritize objective findings, medication reconciliation, allergies, comorbidities, and follow-up recommendations.
+
+For diabetes follow-up, include latest HbA1c trends, fasting blood glucose patterns, current medications, adherence barriers, diet, and physical activity status.
+
+For hypertension documentation, include blood pressure trend, antihypertensive regimen, lifestyle recommendations, and evidence of end-organ involvement when available.
+
+Discharge instructions should clearly state diagnosis, medication changes, warning signs, activity limits, dietary guidance, and when to seek urgent care.
+
+Patient-friendly communication should avoid unnecessary jargon, use short sentences, and include actionable next steps and reassurance.
+
+Professional documentation should maintain neutral, precise language and avoid unsupported conclusions.
+
+When details are unavailable, explicitly mark assumptions and pending investigations.
