@@ -55,7 +55,4 @@ Healthcare-Content-Generator/
 7. Run Streamlit app:
    - streamlit run app.py
 
-## Notes
 
-- This project is for educational and drafting assistance only.
-- Generated content should always be reviewed by qualified healthcare professionals.
